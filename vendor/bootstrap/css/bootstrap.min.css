@@ -583,7 +583,7 @@ mark,
   max-width: 100%;
   height: auto;
   position: static;
-  opacity:0.75;
+  opacity:0.85;
 }
 
 .img-thumbnail {
@@ -647,7 +647,7 @@ div.fixed-icons{
 	vertical-align: baseline;
 	
 	position: fixed;
-	top: 1px;
+	top: 0px;
 	left: 15px;
 	width: 152px;
 	float: right;
