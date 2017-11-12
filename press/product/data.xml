@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>KNOCKBACKY</title>
+  <release-date>06/26/2017</release-date>
+  <website>knockbacky.github.io</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link>http://steam.com/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>US$</currency>
+      <value>3,99</value>
+    </price>
+  </prices>
+
+  <description>In KNOCKBACKY you use explosions immunity and a ROCKET LAUNCHER to escape  the prison!
+  KNOCKBACKY is a 2D platform based on rocket jump and immunity to all kinds of explosion! Use your skills to make risky and tricky moves, insane wall jumps and make your way across the levels, including COOP stages, VERSUS mode, unique BOSS fights and many different scenarios!
+New prisoners are waiting to be freed once more, you can collect items and beat SPEED MARKS to play as different characters and unique mechanics, like the pirate prisoner that uses a grappling hook or the zero-gravity mad scientist!
+Show everyone that you’ve mastered the art of rocket jumping, beating speed marks. Create and share your own deadly levels with the community to watch other players trying to finish it!
+	Play KNOCKBACKY right now and put your hands on your ROCKET LAUNCHER!
+</description>
+
+  <!-- Choose between a single block: -->
+  <history>KNOCKBACKY was dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature></feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+		oViXCXsWstM
+      </youtube>
+      <vimeo>
+        <!-- Video ID only, not the full URL -->
+      </vimeo>
+    </trailer>
+	<trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+		dWbZVdXTLro
+      </youtube>
+      <vimeo>
+        <!-- Video ID only, not the full URL -->
+      </vimeo>
+    </trailer>
+	<trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+		Lyk3-r3qvMQ
+      </youtube>
+      <vimeo>
+        <!-- Video ID only, not the full URL -->
+      </vimeo>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      <!-- Steam ID -->
+      <!-- e.g. 424242 -->
+    </steam>
+    <humble>
+      <!-- Humble Bundle product/id -->
+      <!-- e.g. mysupergame/42AAbB42dC -->
+    </humble>
+    <itch>
+      <!-- itch.io ID -->
+      <!-- e.g. 42424 -->
+    </itch>
+    <bandcamp>
+      <!-- Bandcamp ID -->
+      <!-- e.g. 4242424242 -->
+    </bandcamp>
+  </widgets>
+
+  <awards>
+    <award>
+      <description>Best game my son ever made 2017</description>
+      <info>My mother said Knockbacky is the greatest game I've ever created</info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title>Speed Run Records</title>
+      <description>Records registered in Knockbacky speed run.</description>
+      <link>https://www.speedrun.com/</link>
+    </additional>
+	<additional>
+      <title>Reddit Forum</title>
+      <description>The forum where comunnity discuss about Knockbacky</description>
+      <link>reddit.com</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Lucas Demo</person>
+      <role>Game Director/ Programmer, Artist, Animator, Game designer and SFX</role>
+
+      <!-- Optional: -->
+      <website>https://www.behance.net/Lukbebalduke</website>
+    </credit>
+	<credit>
+      <person>Diego Pontes</person>
+      <role>Game designer and Musician</role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Lucas Demo</name>
+
+      <!-- Pick one: -->
+      <mail>lukbebalduke@outlook.com</mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>
