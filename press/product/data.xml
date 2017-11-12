@@ -21,11 +21,7 @@
     </price>
   </prices>
 
-  <description>In KNOCKBACKY you use explosions immunity and a ROCKET LAUNCHER to escape  the prison!<br>
-  KNOCKBACKY is a 2D platform based on rocket jump and immunity to all kinds of explosion! Use your skills to make risky and tricky moves, insane wall jumps and make your way across the levels, including COOP stages, VERSUS mode, unique BOSS fights and many different scenarios!
-New prisoners are waiting to be freed once more, you can collect items and beat SPEED MARKS to play as different characters and unique mechanics, like the pirate prisoner that uses a grappling hook or the zero-gravity mad scientist!
-Show everyone that you’ve mastered the art of rocket jumping, beating speed marks. Create and share your own deadly levels with the community to watch other players trying to finish it!
-	Play KNOCKBACKY right now and put your hands on your ROCKET LAUNCHER!
+  <description>Use explosion immunity and a ROCKET LAUNCHER to escape the prison, making explosive and risky moves across the level!
 </description>
 
   <!-- Choose between a single block: -->
@@ -42,7 +38,12 @@ Show everyone that you’ve mastered the art of rocket jumping, beating speed ma
   -->
 
   <features>
-    <feature></feature>
+    <feature>- More than 40 levels</feature>
+	<feature>- Speed Runnable</feature>
+	<feature>- Local COOP game mode</feature>
+	<feature>- Local VERSUS game mode</feature>
+	<feature>- Unique BOSS FIGHTS</feature>
+	<feature>- Unlock new Prisoners</feature>
   </features>
 
   <trailers>
