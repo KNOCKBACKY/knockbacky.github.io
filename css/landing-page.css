@@ -17,7 +17,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .intro-header {
   padding-bottom: 15px;
   text-align: center;
-  color: #f8f8f8;
+  color: #040406;
   background: url(../img/intro-bg.png) no-repeat center center;
   
   /* Set a specific height */
@@ -90,7 +90,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .content-section-b {
   padding: 50px 0;
-  background-color: #040404;
+  background-color: #040406;
   background: url(../img/intro-bg.png) no-repeat center center;
 
 	/* Create the parallax scrolling effect */
