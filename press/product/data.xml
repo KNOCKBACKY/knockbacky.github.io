@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>KNOCKBACKY</title>
-  <release-date>06/26/2017</release-date>
+  <release-date>18 de Fevereiro, 1999</release-date>
   <website>knockbacky.github.io</website>
 
   <!-- Link to request press copy: -->
@@ -9,7 +9,7 @@
 
   <platforms>
     <platform>
-      <name>Steam</name>
+      <name>PC - Steam</name>
       <link>http://steam.com/</link>
     </platform>
   </platforms>
@@ -21,7 +21,7 @@
     </price>
   </prices>
 
-  <description>In KNOCKBACKY you use explosions immunity and a ROCKET LAUNCHER to escape  the prison!
+  <description>In KNOCKBACKY you use explosions immunity and a ROCKET LAUNCHER to escape  the prison!<br>
   KNOCKBACKY is a 2D platform based on rocket jump and immunity to all kinds of explosion! Use your skills to make risky and tricky moves, insane wall jumps and make your way across the levels, including COOP stages, VERSUS mode, unique BOSS fights and many different scenarios!
 New prisoners are waiting to be freed once more, you can collect items and beat SPEED MARKS to play as different characters and unique mechanics, like the pirate prisoner that uses a grappling hook or the zero-gravity mad scientist!
 Show everyone that you’ve mastered the art of rocket jumping, beating speed marks. Create and share your own deadly levels with the community to watch other players trying to finish it!
@@ -54,9 +54,6 @@ Show everyone that you’ve mastered the art of rocket jumping, beating speed ma
         <!-- Video ID only, not the full URL -->
 		oViXCXsWstM
       </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
     </trailer>
 	<trailer>
       <name></name>
@@ -66,9 +63,6 @@ Show everyone that you’ve mastered the art of rocket jumping, beating speed ma
         <!-- Video ID only, not the full URL -->
 		dWbZVdXTLro
       </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
     </trailer>
 	<trailer>
       <name></name>
@@ -78,31 +72,8 @@ Show everyone that you’ve mastered the art of rocket jumping, beating speed ma
         <!-- Video ID only, not the full URL -->
 		Lyk3-r3qvMQ
       </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
     </trailer>
   </trailers>
-
-  <!-- You can set your widgets here (optional): -->
-  <widgets>
-    <steam>
-      <!-- Steam ID -->
-      <!-- e.g. 424242 -->
-    </steam>
-    <humble>
-      <!-- Humble Bundle product/id -->
-      <!-- e.g. mysupergame/42AAbB42dC -->
-    </humble>
-    <itch>
-      <!-- itch.io ID -->
-      <!-- e.g. 42424 -->
-    </itch>
-    <bandcamp>
-      <!-- Bandcamp ID -->
-      <!-- e.g. 4242424242 -->
-    </bandcamp>
-  </widgets>
 
   <awards>
     <award>
@@ -110,15 +81,6 @@ Show everyone that you’ve mastered the art of rocket jumping, beating speed ma
       <info>My mother said Knockbacky is the greatest game I've ever created</info>
     </award>
   </awards>
-
-  <quotes>
-    <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
-    </quote>
-  </quotes>
 
   <additionals>
     <additional>
